@@ -1,0 +1,20 @@
+/* All Elements */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* Background */
+    background-color: #1F1F1F;
+    /* Text */
+    color: #D8DEE9;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Hyperlinks */
+a{
+    text-decoration: none; /* no automatic-blue */
+    color: inherit; /* same as parent element */
+}
